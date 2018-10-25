@@ -1,11 +1,14 @@
 Hola git
 hala2
-<<<<<<< HEAD
 hola3
-hola soy lloclli
-gg
-pp
-=======
 hola tres
 hola 4
->>>>>>> 30dfcf65bbf8ebcebc693e2d0128fc5df5a925aa
+hola3
+<<<<<<< HEAD
+hola soy lloclli
+orinal de lloclli
+=======
+hola soy julio
+gg
+>>>>>>> 57a1e937441a89586d0ac4d790b2228012c771d8
+pp
