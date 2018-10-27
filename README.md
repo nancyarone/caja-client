@@ -4,8 +4,8 @@
     * curso de ATI
     	* SUBIENDO A GIT
 >LOGO EAPIIS
-    ![GitHub Logo](/eapiis.jpg)
-    [GitHub](https://github.com/20182-ATI/caja-client.git)
+    ![GitHub Logo](/Images/eapiis.jpg)
+    [GITHUB](https://github.com/20182-ATI/caja-client.git)
  
 
 
